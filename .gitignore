@@ -1,0 +1,10 @@
+/finetune/wandb/
+/finetune/result/
+/finetune/train_4d_finetune_test.sh
+/finetune/train_2d_pretrain_test.sh
+/finetune/accelerate_config_test.yaml
+/inference/dwpose/models/
+**/__pycache__/
+**/.ipynb_checkpoints/
+/inference/results/
+/inference/examples/
