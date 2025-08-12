@@ -13,7 +13,7 @@
 **Your star is our fuel!  We're revving up the engines with it!**
 
 ## News
-- [2025/8/12] 🔥 We release the [paper](https://www.arxiv.org/abs/2503.00740) of CharacterShot!!!
+- [2025/8/12] 🔥 We release the [paper](https://arxiv.org/abs/2508.07409) of CharacterShot!!!
 
 ## TODO List
 - [ ] Character4D Dataset.
